@@ -1,0 +1,15 @@
+_ MOUSE
+	Chuot trai (mouse_left) = Next background
+	Chuot phai (mouse_right) = Next song
+	con lãn = tam dung (pause or resume) music
+
+_ KEY (Ban Phim)
+	Up = Next song
+	Down = Pre song (TurnBack)
+	Left = Pre Background (turnback)
+	Right = Next Background 
+	
+	Space = Setup Firework (cac che do khac nhau)
+	
+	e = Effect
+	b = balloon firework
